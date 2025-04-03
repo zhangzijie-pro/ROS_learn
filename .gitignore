@@ -1,6 +1,10 @@
 devel/
+.vscode/
 logs/
+log/
 build/
+CMakeFiles/
+install/
 bin/
 lib/
 msg_gen/
